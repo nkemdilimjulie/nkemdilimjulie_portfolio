@@ -1,4 +1,6 @@
-#!/home/dci-student/P24-E04/nkemdilimjulie_portfolio/.venv/bin/python3
+#!/bin/sh
+'''exec' "/home/dci-student/P24-E04/AFTER-FINAL- PROJECT- PRESENTATION /Portfolio-Django/nkemdilimjulie_portfolio/.venv/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
